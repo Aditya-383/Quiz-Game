@@ -26,9 +26,9 @@ const quizDB=[
 
     {
         question:"Q4:What is the full form of CSS?",
-        a: "Cascad Sheet Style",
-        b: "Cascad Style Sheet",
-        c:"Cascad Simple Sheet",
+        a: "Cascade Sheet Style",
+        b: "Cascade Style Sheet",
+        c:"Cascade Simple Sheet",
         d:"None",
         ans:"ans2"
     }
